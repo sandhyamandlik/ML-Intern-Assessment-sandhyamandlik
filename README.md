@@ -30,8 +30,8 @@ business can prioritize retention outreach toward the customers most likely to l
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/<your-username>/ML-Intern-Assessment-<YourName>.git
-cd ML-Intern-Assessment-<YourName>
+git clone https://github.com/sandhyamandlik/ML-Intern-Assessment-sandhyamandlik.git
+cd ML-Intern-Assessment-sandhyamandlik
 
 # 2. Create and activate a virtual environment (Python 3.10+)
 python3 -m venv venv
