@@ -3,7 +3,7 @@
 An end-to-end machine learning project that predicts whether a telecom customer will churn
 (cancel their subscription), built for the ML Engineering Intern technical assessment.
 
-🔗 **Live Demo:** https://your-app-url.streamlit.app
+🔗 **Live Demo:** https://ml-intern-assessment-sandhyamandlik.streamlit.app/
 
 ## Project Overview
 
