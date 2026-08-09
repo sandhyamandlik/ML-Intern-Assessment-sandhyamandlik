@@ -3,6 +3,8 @@
 An end-to-end machine learning project that predicts whether a telecom customer will churn
 (cancel their subscription), built for the ML Engineering Intern technical assessment.
 
+🔗 **Live Demo:** https://your-app-url.streamlit.app
+
 ## Project Overview
 
 Customer churn is one of the highest-leverage problems in subscription businesses: acquiring a
